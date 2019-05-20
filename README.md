@@ -9,9 +9,12 @@ Unexpected spaces were being added, so a change
 to
 `<div class="subcontents"></div><div class="subcontents"></div><div class="subcontents"></div>`
 
-from 
+from
+
 `<div class="subcontents"></div>`
+
 `<div class="subcontents"></div>`
+
 `<div class="subcontents"></div>`
 
 was needed.
